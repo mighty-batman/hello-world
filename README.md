@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi humans!
+I just drank pomegranate juice without any sugar
